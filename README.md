@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/polotacki?tab=repositories](https://github.com/polotacki?tab=repositories)
 
-- 📝 I regularly write articles on [Computer Science topics like Algorithms and data structures](Computer Science topics like Algorithms and data structures)
+- 📝 I regularly write articles on Computer Science topics like Algorithms and data structures
 
 - 💬 Ask me about **Flutter,Docker,jenkins,Ansible,Git**
 
