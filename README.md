@@ -27,7 +27,7 @@
 <h3 align="left">Used Languages :</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polotacki&show_icons=true&locale=en&layout=compact" alt="polotacki" /></p>
 
-<h3 align="left">Stats :</h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polotacki&show_icons=true&locale=en" alt="polotacki" /></p>
-<h3 align="left"> Contributions:</h3>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polotacki&" alt="polotacki" /></p>
+<h3 align="left">Stats :<br></h3>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polotacki&show_icons=true&locale=en" alt="polotacki" /><br></p>
+<h3 align="left"> Contributions:<br></h3>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polotacki&" alt="polotacki" /><br></p>
