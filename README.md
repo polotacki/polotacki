@@ -31,9 +31,8 @@
 <h3 align="left"> Contributions:<br></h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polotacki&" alt="polotacki" /><br></p>
 <details>
-  <summary>More About me</summary>
-  
-  ### Heading
+  <summary><h3> More About me</h3></summary>
+
 - University student in 4th year in Computer Science college who is working as a mobile developer (flutter).
 
 - implemented muslim's todo app with flutter .
