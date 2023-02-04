@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polotacki&label=Profile%20views&color=0e75b6&style=flat" alt="polotacki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polotacki" alt="polotacki" /></a> </p>
-
 - 🔭 I’m currently working on [Muslim's To-do App](https://github.com/polotacki/Muslim-Todo-Flutter.git)
 
 - 🌱 I’m currently learning **Devops Engineering**
