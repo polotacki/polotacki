@@ -30,3 +30,21 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polotacki&show_icons=true&locale=en" alt="polotacki" /></p><br>
 <h3 align="left"> Contributions:<br></h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polotacki&" alt="polotacki" /><br></p>
+<details>
+  <summary>More About me</summary>
+  
+  ### Heading
+- University student in 4th year in Computer Science college who is working as a mobile developer (flutter).
+
+- implemented muslim's todo app with flutter .
+
+- Have a huge passion for devops.
+
+- Hands On practices with ci/cd tools like jenkins & github actions.
+
+- Advanced level in working with git & docker.
+
+- Interested in Software Engineering with the main focus on microservices and Software development in general.
+
+- Applied Agile methodology while working with my graduation project's team .
+</details>
