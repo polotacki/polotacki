@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Muslim's To-do App](https://github.com/polotacki/Muslim-Todo-Flutter.git)
 
-- 🌱 I’m currently learning **Devops Engineering**
+- 🌱 I’m currently learning **mobile development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/polotacki?tab=repositories](https://github.com/polotacki?tab=repositories)
 
 - 📝 I regularly write articles on Computer Science topics like Algorithms and data structures
 
-- 💬 Ask me about **Flutter,Docker,jenkins,Ansible,Git**
+- 💬 Ask me about **Flutter,Docker,kubernetes,jenkins,Agile project management,Git**
 
 - 📫 How to reach me **nasserabdo9898111@gmail.com**
 
@@ -36,7 +36,7 @@
 - University student in 4th year in Computer Science college who is working as a mobile developer (flutter).
 
 - implemented muslim's todo app with flutter .
-
+- deep understanding of oob , solid prenciples and bloc statemanagement .
 - Have a huge passion for devops.
 
 - Hands On practices with ci/cd tools like jenkins & github actions.
