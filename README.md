@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polotacki&label=Profile%20views&color=0e75b6&style=flat" alt="polotacki" /> </p>
 
-- 🔭 I’m currently working on [Muslim's To-do App](https://github.com/polotacki/Muslim-Todo-Flutter.git)
+- 🔭 I’m currently working on [Homination_Flutter App](https://github.com/polotacki/Homination_Flutter.git)
 
 - 🌱 I’m currently learning **mobile development**
 
